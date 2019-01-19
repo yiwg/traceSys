@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e70c927-e8ec-445c-85db-4f34e5addc92" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/conf/authz" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/conf/authz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/conf/hooks-env.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/conf/hooks-env.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/conf/passwd" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/conf/passwd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/conf/svnserve.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/conf/svnserve.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/current" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/current" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/format" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/format" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/fs-type" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/fs-type" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/fsfs.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/fsfs.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/min-unpacked-rev" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/min-unpacked-rev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/revprops/0/0" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/revprops/0/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/revs/0/0" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/revs/0/0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/txn-current" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/txn-current" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/db/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/db/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/format" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/format" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/post-commit.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/post-commit.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/post-lock.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/post-lock.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/post-revprop-change.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/post-revprop-change.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/post-unlock.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/post-unlock.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/pre-commit.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/pre-commit.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/pre-lock.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/pre-lock.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/pre-revprop-change.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/pre-revprop-change.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/pre-unlock.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/pre-unlock.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/hooks/start-commit.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/hooks/start-commit.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/locks/db-logs.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/locks/db-logs.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled/locks/db.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled/locks/db.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/action_cp/frame/FrameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/action_cp/frame/FrameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/base/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/base/service/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/interceptor/LoginShopInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/interceptor/LoginShopInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/GetToke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/GetToke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/HttpJsonTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/HttpJsonTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentAPIRefund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentAPIRefund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentAPIScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentAPIScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentAPIRefund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentAPIRefund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentAPIToUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentAPIToUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_cp/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_cp/common/common.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_cp/common/init.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_cp/common/init.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_cp/frame/foot.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_cp/frame/foot.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_lib/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_lib/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_lib/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_lib/500.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_moblie/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_moblie/common/common.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_moblie/common/init.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_moblie/common/init.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/common/common.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/common/init.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/common/init.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/frame/frame.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/frame/frame.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/frame/index_v1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/frame/index_v1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/frame/password.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/frame/password.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/login/login_shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_shop/login/login_shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/bootstrap-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/bootstrap-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/demo/webuploader-demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/demo/webuploader-demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery-indicator.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery-indicator.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery-video.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery-video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/blueimp-gallery.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/img/error.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/img/error.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/img/play-pause.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/img/play-pause.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/img/video-play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/blueimp/img/video-play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/bootstrap-table/bootstrap-table.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/bootstrap-table/bootstrap-table.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/chosen/chosen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/chosen/chosen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/clockpicker/clockpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/clockpicker/clockpicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/codemirror/ambiance.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/codemirror/ambiance.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/colorpicker/css/bootstrap-colorpicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/colorpicker/css/bootstrap-colorpicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/cropper/cropper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/cropper/cropper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/dataTables/dataTables.bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/dataTables/dataTables.bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/datapicker/datepicker3.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/datapicker/datepicker3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/dropzone/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/dropzone/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/dropzone/dropzone.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/dropzone/dropzone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/duallistbox/bootstrap-duallistbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/duallistbox/bootstrap-duallistbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/footable/fonts/footable.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/footable/fonts/footable.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/footable/footable.core.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/footable/footable.core.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/fullcalendar/fullcalendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/fullcalendar/fullcalendar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/fullcalendar/fullcalendar.print.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/fullcalendar/fullcalendar.print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/iCheck/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/iCheck/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/ionRangeSlider/ion.rangeSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/ionRangeSlider/ion.rangeSlider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/ionRangeSlider/ion.rangeSlider.skinFlat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/ionRangeSlider/ion.rangeSlider.skinFlat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jQueryUI/jquery-ui-1.10.4.custom.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jQueryUI/jquery-ui-1.10.4.custom.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jasny/jasny-bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jasny/jasny-bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jqgrid/ui.jqgrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jqgrid/ui.jqgrid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jsTree/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/jsTree/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/markdown/bootstrap-markdown.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/markdown/bootstrap-markdown.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/morris/morris-0.4.3.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/morris/morris-0.4.3.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/multiselect/bootstrap-multiselect.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/multiselect/bootstrap-multiselect.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/nouslider/jquery.nouislider.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/nouslider/jquery.nouislider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/plyr/plyr.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/plyr/plyr.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/plyr/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/plyr/sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/simditor/simditor.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/simditor/simditor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/steps/jquery.steps.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/steps/jquery.steps.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/summernote/summernote-bs3.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/summernote/summernote-bs3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/summernote/summernote.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/summernote/summernote.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/sweetalert/sweetalert.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/sweetalert/sweetalert.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/switchery/switchery.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/switchery/switchery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/toastr/toastr.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/toastr/toastr.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/treeview/bootstrap-treeview.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/treeview/bootstrap-treeview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/webuploader/webuploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/plugins/webuploader/webuploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/contabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/contabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/bootstrap-table-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/bootstrap-table-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/bootstrap_table_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/bootstrap_table_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/bootstrap_table_test2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/bootstrap_table_test2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/echarts-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/echarts-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/flot-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/flot-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/form-advanced-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/form-advanced-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/form-validate-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/form-validate-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/layer-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/layer-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/morris-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/morris-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/peity-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/peity-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/photos.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/photos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/rickshaw-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/rickshaw-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/sparkline-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/sparkline-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/table_base.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/table_base.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/treeview-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/treeview-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/webuploader-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/demo/webuploader-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/hplus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/hplus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/jquery-ui-1.10.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/jquery-ui-1.10.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/jquery-ui.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/jquery-ui.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/beautifyhtml/beautifyhtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/beautifyhtml/beautifyhtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/blueimp/jquery.blueimp-gallery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/blueimp/jquery.blueimp-gallery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/bootstrap-table-mobile.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/bootstrap-table-mobile.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/bootstrap-table.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/bootstrap-table.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/chartJs/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/chartJs/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/chosen/chosen.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/chosen/chosen.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/clockpicker/clockpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/clockpicker/clockpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/apl/apl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/apl/apl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/apl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/apl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/asterisk/asterisk.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/asterisk/asterisk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/asterisk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/asterisk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clike/clike.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clike/clike.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clike/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clike/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clike/scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clike/scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clojure/clojure.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clojure/clojure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clojure/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/clojure/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cobol/cobol.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cobol/cobol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cobol/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cobol/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/coffeescript/coffeescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/coffeescript/coffeescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/coffeescript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/coffeescript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/commonlisp/commonlisp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/commonlisp/commonlisp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/commonlisp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/commonlisp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/less.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/less_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/less_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/scss.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/scss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/scss_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/scss_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/css/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cypher/cypher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cypher/cypher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cypher/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/cypher/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/d/d.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/d/d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/d/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/d/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dart/dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dart/dart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dart/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dart/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/diff/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/diff/diff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/diff/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/diff/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/django/django.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/django/django.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/django/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/django/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dockerfile/dockerfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dockerfile/dockerfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dockerfile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dockerfile/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dtd/dtd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dtd/dtd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dtd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dtd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dylan/dylan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dylan/dylan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dylan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/dylan/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ebnf/ebnf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ebnf/ebnf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ebnf/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ebnf/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ecl/ecl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ecl/ecl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ecl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ecl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/eiffel/eiffel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/eiffel/eiffel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/eiffel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/eiffel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/erlang/erlang.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/erlang/erlang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/erlang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/erlang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/fortran/fortran.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/fortran/fortran.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/fortran/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/fortran/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gas/gas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gas/gas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gfm/gfm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gfm/gfm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gfm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gfm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gfm/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gfm/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gherkin/gherkin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gherkin/gherkin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gherkin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/gherkin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/go/go.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/go/go.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/go/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/groovy/groovy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/groovy/groovy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/groovy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/groovy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haml/haml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haml/haml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haml/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haml/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haskell/haskell.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haskell/haskell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haskell/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haskell/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haxe/haxe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haxe/haxe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haxe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/haxe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlembedded/htmlembedded.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlembedded/htmlembedded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlembedded/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlembedded/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlmixed/htmlmixed.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlmixed/htmlmixed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlmixed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/htmlmixed/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/http/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/http/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/http/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/http/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/idl/idl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/idl/idl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/idl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/idl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jade/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jade/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jade/jade.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jade/jade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/json-ld.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/json-ld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/typescript.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/javascript/typescript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jinja2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jinja2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jinja2/jinja2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/jinja2/jinja2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/julia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/julia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/julia/julia.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/julia/julia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/kotlin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/kotlin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/kotlin/kotlin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/kotlin/kotlin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/livescript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/livescript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/livescript/livescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/livescript/livescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/lua/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/lua/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/lua/lua.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/lua/lua.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/markdown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/markdown/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/markdown/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/markdown/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/markdown/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/meta.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/meta.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mirc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mirc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mirc/mirc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mirc/mirc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mllike/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mllike/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mllike/mllike.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/mllike/mllike.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/modelica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/modelica/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/modelica/modelica.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/modelica/modelica.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/nginx/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/nginx/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/nginx/nginx.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/nginx/nginx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ntriples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ntriples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ntriples/ntriples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ntriples/ntriples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/octave/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/octave/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/octave/octave.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/octave/octave.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pascal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pascal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pascal/pascal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pascal/pascal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pegjs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pegjs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pegjs/pegjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pegjs/pegjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/perl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/perl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/perl/perl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/perl/perl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/php/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/php/php.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/php/php.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/php/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/php/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pig/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pig/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pig/pig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/pig/pig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/properties/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/properties/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/properties/properties.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/properties/properties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/puppet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/puppet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/puppet/puppet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/puppet/puppet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/python/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/python/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/python/python.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/python/python.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/q/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/q/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/q/q.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/q/q.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/r/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/r/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/r/r.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/r/r.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rpm/changes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rpm/changes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rpm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rpm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rpm/rpm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rpm/rpm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rst/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rst/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rst/rst.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rst/rst.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ruby/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ruby/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ruby/ruby.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ruby/ruby.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ruby/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/ruby/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rust/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rust/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rust/rust.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/rust/rust.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sass/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sass/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sass/sass.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sass/sass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/scheme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/scheme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/scheme/scheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/scheme/scheme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/shell/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/shell/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/shell/shell.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/shell/shell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/shell/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/shell/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sieve/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sieve/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sieve/sieve.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sieve/sieve.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/slim/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/slim/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/slim/slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/slim/slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/slim/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/slim/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smalltalk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smalltalk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smalltalk/smalltalk.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smalltalk/smalltalk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smarty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smarty/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smarty/smarty.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smarty/smarty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smartymixed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smartymixed/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smartymixed/smartymixed.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/smartymixed/smartymixed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/solr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/solr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/solr/solr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/solr/solr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/soy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/soy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/soy/soy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/soy/soy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sparql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sparql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sparql/sparql.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sparql/sparql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/spreadsheet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/spreadsheet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/spreadsheet/spreadsheet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/spreadsheet/spreadsheet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sql/sql.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/sql/sql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/stex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/stex/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/stex/stex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/stex/stex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/stex/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/stex/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tcl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tcl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tcl/tcl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tcl/tcl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/textile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/textile/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/textile/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/textile/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/textile/textile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/textile/textile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiddlywiki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiddlywiki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiddlywiki/tiddlywiki.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiddlywiki/tiddlywiki.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiddlywiki/tiddlywiki.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiddlywiki/tiddlywiki.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiki/tiki.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiki/tiki.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiki/tiki.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tiki/tiki.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/toml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/toml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/toml/toml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/toml/toml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tornado/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tornado/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tornado/tornado.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/tornado/tornado.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/turtle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/turtle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/turtle/turtle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/turtle/turtle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vb/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vb/vb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vb/vb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vbscript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vbscript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vbscript/vbscript.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/vbscript/vbscript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/velocity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/velocity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/velocity/velocity.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/velocity/velocity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/verilog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/verilog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/verilog/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/verilog/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/verilog/verilog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/verilog/verilog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xml/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xml/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xml/xml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xml/xml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xquery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xquery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xquery/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xquery/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xquery/xquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/xquery/xquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/yaml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/yaml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/yaml/yaml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/yaml/yaml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/z80/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/z80/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/z80/z80.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/codemirror/mode/z80/z80.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/colorpicker/bootstrap-colorpicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/colorpicker/bootstrap-colorpicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/cropper/cropper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/cropper/cropper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/dataTables/dataTables.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/dataTables/dataTables.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/dataTables/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/dataTables/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/datapicker/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/datapicker/bootstrap-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/diff_match_patch/diff_match_patch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/diff_match_patch/diff_match_patch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/dropzone/dropzone.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/dropzone/dropzone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/duallistbox/jquery.bootstrap-duallistbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/duallistbox/jquery.bootstrap-duallistbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/easypiechart/jquery.easypiechart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/easypiechart/jquery.easypiechart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/echarts/echarts-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/echarts/echarts-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fancybox/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fancybox/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/curvedLines.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/curvedLines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.spline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.spline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.tooltip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/flot/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/footable/footable.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/footable/footable.all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fullcalendar/fullcalendar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fullcalendar/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/fullcalendar/moment.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/gritter/jquery.gritter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/gritter/jquery.gritter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/gritter/jquery.gritter.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/gritter/jquery.gritter.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/iCheck/icheck.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/iCheck/icheck.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/ionRangeSlider/ion.rangeSlider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/ionRangeSlider/ion.rangeSlider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/ionRangeSlider/jasny/jasny-bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/ionRangeSlider/jasny/jasny-bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jasny/jasny-bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jasny/jasny-bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jeditable/jquery.jeditable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jeditable/jquery.jeditable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jqgrid/i18n/grid.locale-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jqgrid/i18n/grid.locale-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jqgrid/jquery.jqGrid.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jqgrid/jquery.jqGrid.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jquery-ui/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jquery-ui/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jsKnob/jquery.knob.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jsKnob/jquery.knob.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jsTree/jstree.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jsTree/jstree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jsTree/jstree.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jsTree/jstree.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/extend/layer.ext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/extend/layer.ext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/laydate/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/laydate/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/laydate/need/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/laydate/need/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/laydate/skins/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/laydate/skins/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layer.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layer.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/chatlog.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/chatlog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/friend.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/friend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/group.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/group.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/groups.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/data/groups.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/layim.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/layim.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/layim.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/layim/layim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/skin/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/skin/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/skin/layer.ext.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/skin/layer.ext.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/skin/moon/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/layer/skin/moon/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/bootstrap-markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/bootstrap-markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/bootstrap-markdown.zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/bootstrap-markdown.zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/to-markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/markdown/to-markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/metisMenu/jquery.metisMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/metisMenu/jquery.metisMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/morris/morris.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/morris/morris.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/morris/raphael-2.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/morris/raphael-2.1.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/multiselect/bootstrap-multiselect.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/multiselect/bootstrap-multiselect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/nestable/jquery.nestable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/nestable/jquery.nestable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/nouslider/jquery.nouislider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/nouslider/jquery.nouislider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/pace/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/pace/pace.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/peity/jquery.peity.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/peity/jquery.peity.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/plyr/plyr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/plyr/plyr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/preetyTextDiff/jquery.pretty-text-diff.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/preetyTextDiff/jquery.pretty-text-diff.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/prettyfile/bootstrap-prettyfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/prettyfile/bootstrap-prettyfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/rickshaw/rickshaw.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/rickshaw/rickshaw.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/rickshaw/vendor/d3.v3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/rickshaw/vendor/d3.v3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/hotkeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/hotkeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/hotkeys.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/hotkeys.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/module.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/module.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/simditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/simditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/simditor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/simditor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/uploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/uploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/uploader.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/simditor/uploader.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/slimscroll/jquery.slimscroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/slimscroll/jquery.slimscroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/sparkline/jquery.sparkline.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/sparkline/jquery.sparkline.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/staps/jquery.steps.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/staps/jquery.steps.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/suggest/bootstrap-suggest.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/suggest/bootstrap-suggest.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/suggest/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/suggest/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/summernote/summernote-zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/summernote/summernote-zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/summernote/summernote.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/summernote/summernote.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/sweetalert/sweetalert.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/sweetalert/sweetalert.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/switchery/switchery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/switchery/switchery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/toastr/toastr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/toastr/toastr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/treeview/bootstrap-treeview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/treeview/bootstrap-treeview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/validate/additional-methods.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/validate/additional-methods.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/validate/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/validate/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/validate/messages_zh.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/validate/messages_zh.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.fis.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.fis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.flashonly.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.flashonly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.html5only.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.html5only.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.noimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.noimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.noimage.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.noimage.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.nolog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.nolog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.nolog.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.nolog.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.withoutimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.withoutimage.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/plugins/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/js/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/c#/Upload.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/c#/Upload.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/c#/Upload.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/c#/Upload.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/vb/Upload.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/vb/Upload.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/vb/Upload.aspx.vb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp.net/vb/Upload.aspx.vb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp/Upload.asp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp/Upload.asp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp/Upload.asp.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/asp/Upload.asp.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/crossdomain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/crossdomain.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/jsp/upload.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/jsp/upload.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/php/upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/php/upload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/fullAvatarEditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/fullAvatarEditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.Cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.Cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.Drag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.Drag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.Resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.Resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/jQuery.dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/swfobject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/swfobject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/scripts/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/simpleDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/Hplus-v.4.1.0/plugins/fullavatareditor/simpleDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/font/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/font/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/font/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/font/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/font/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/font/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/cms/cms_special.js_src" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/cms/cms_special.js_src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/dialog/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/dialog/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery-ui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery-ui/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery-ui/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery-ui/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery-ui/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery-ui/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.numberAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.numberAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.progressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.progressBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.supersized.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/jquery.supersized.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/map/jquery.vector-map.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/map/jquery.vector-map.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/slidesjs/jquery.slides.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/resource/js/slidesjs/jquery.slides.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/admin/templates/default/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/admin/templates/default/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/extjs-date/DateTimeField.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/extjs-date/DateTimeField.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/extjs-date/DateTimePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/extjs-date/DateTimePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/fly/jquery.fly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/fly/jquery.fly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/fly/requestAnimationFrame.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/fly/requestAnimationFrame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jcarousel/jquery.jcarousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jcarousel/jquery.jcarousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jcarousel/skins/ie7/skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jcarousel/skins/ie7/skin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery-ui-timepicker-addon/jquery-ui-timepicker-addon.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery-ui-timepicker-addon/jquery-ui-timepicker-addon.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery-ui/jquery.ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery-ui/jquery.ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.Jcrop/jquery.Jcrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.Jcrop/jquery.Jcrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.Jcrop/jquery.Jcrop.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.Jcrop/jquery.Jcrop.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.icheck.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.icheck.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.masonry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.masonry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.mousewheel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.mousewheel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.poshytip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.poshytip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.raty/jquery.raty.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.raty/jquery.raty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.raty/jquery.raty.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.raty/jquery.raty.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.thumb.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.thumb.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.validation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery.validation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/perfect-scrollbar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/perfect-scrollbar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/js/respond.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/respond.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/lib/extjs6.0/packages/ux/classic/ux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/lib/extjs6.0/packages/ux/classic/ux.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/lib/spin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/lib/spin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/login2/css/saved_resource.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/login2/css/saved_resource.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/login2/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/login2/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/jquery-weui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/jquery-weui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/weui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/css/weui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/js/jquery-2.1.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/js/jquery-2.1.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/rqq/js/jquery-weui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/rqq/js/jquery-weui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/style4cp/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/style4cp/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.jshintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/gulpfile-wrap-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/gulpfile-wrap-template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/ie9.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/ie9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/loader-animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/loader-animation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/default-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/default-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-click.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-click.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-key.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-key.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-swal-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/handle-swal-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/injected-html.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/injected-html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/set-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/set-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/modules/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/sweetalert.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/sweetalert.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/sweetalert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dev/sweetalert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dist/sweetalert-dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dist/sweetalert-dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dist/sweetalert.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/dist/sweetalert.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/example/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/example/example.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/example/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/example/example.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/example/images/te-logo-small.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/example/images/te-logo-small.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/default-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/default-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-click.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-click.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-key.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-key.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-swal-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/handle-swal-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/injected-html.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/injected-html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/set-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/set-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/modules/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/sweetalert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/lib/sweetalert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/test/tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/facebook/facebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/facebook/facebook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/facebook/facebook.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/facebook/facebook.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/google/google.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/google/google.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/google/google.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/google/google.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/twitter/twitter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/twitter/twitter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/twitter/twitter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/themes/twitter/twitter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader2/webuploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader2/webuploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader2/webuploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resource/webuploader/webuploader2/webuploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.gitignore" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="175" column="36" lean-forward="true" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_lib/404.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-310">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginShopInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/interceptor/LoginShopInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaymentApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="165" column="18" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
+              <folding>
+                <element signature="e#2346#2362#0" expanded="true" />
+                <element signature="e#3473#3489#0" expanded="true" />
+                <element signature="e#4063#4079#0" expanded="true" />
+                <element signature="e#4790#4806#0" expanded="true" />
+                <element signature="e#5967#5983#0" expanded="true" />
+                <element signature="e#6508#6524#0" expanded="true" />
+                <element signature="e#7049#7065#0" expanded="true" />
+                <element signature="e#7581#7597#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaymentApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpJsonTools.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/HttpJsonTools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="traceback.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/traceback.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/logs/ne.log</find>
+      <find>抱歉，页面好像去火星了~</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/config/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/action_cp/frame/FrameController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/HttpJsonTools.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tmsps/traceback/interceptor/LoginShopInterceptor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="traceback" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="traceback" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="traceback" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/src/main/webapp/resource/sweetalert-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1850" />
+    <option name="y" value="59" />
+    <option name="width" value="1832" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="traceback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traceback" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e70c927-e8ec-445c-85db-4f34e5addc92" name="Default" comment="" />
+      <created>1546866351922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546866351922</updated>
+      <workItem from="1546866355994" duration="280000" />
+      <workItem from="1546867688974" duration="354000" />
+      <workItem from="1546868129575" duration="2206000" />
+      <workItem from="1546871225210" duration="1684000" />
+      <workItem from="1547863336465" duration="6377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1850" y="59" width="1832" height="1021" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.24727075" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.37592396" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37381205" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18449782" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3772">
+          <caret line="164" column="51" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/view_cp/admin/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/view_cp/admin/pwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/view_cp/admin/edit.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/view_cp/admin/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/action_cp/admin/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1534">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/action_cp/frame/FrameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traceback.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/PaymentApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="165" column="18" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
+          <folding>
+            <element signature="e#2346#2362#0" expanded="true" />
+            <element signature="e#3473#3489#0" expanded="true" />
+            <element signature="e#4063#4079#0" expanded="true" />
+            <element signature="e#4790#4806#0" expanded="true" />
+            <element signature="e#5967#5983#0" expanded="true" />
+            <element signature="e#6508#6524#0" expanded="true" />
+            <element signature="e#7049#7065#0" expanded="true" />
+            <element signature="e#7581#7597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/wx/will_del/PaymentApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/util/http/HttpJsonTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/view/jsp_005flib/_404_jsp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsp_lib/404.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tmsps/traceback/interceptor/LoginShopInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="175" column="36" lean-forward="true" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>traceback:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>traceback</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
